@@ -43,6 +43,6 @@ This is a Python-based project designed to analyze the similarity between song l
 **User Feedback Loop:** Implement a feedback system to refine recommendations based on user preferences.<br />
 
 ### Conclusion:
-The LyricSimilarityAnalyzer leverages NLP and machine learning techniques to provide insightful song recommendations and comparisons based on lyrical content. With potential for numerous applications in music technology and opportunities for enhancement, it serves as a robust tool for exploring the lyrical landscape of music.
+The Song Recommender leverages NLP and machine learning techniques to provide insightful song recommendations and comparisons based on lyrical content. With potential for numerous applications in music technology and opportunities for enhancement, it serves as a robust tool for exploring the lyrical landscape of music.
 
 
