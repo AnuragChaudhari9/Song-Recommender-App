@@ -1,6 +1,6 @@
 # Song-Recommender-App
 ### Overview:
-This is a Python-based project designed to analyze the similarity between song lyrics and recommend songs based on their textual content. Utilizing natural language processing (NLP) techniques, the project transforms song lyrics into numerical representations and calculates similarities between them.
+This is a Python-based project designed to analyze the similarity between song lyrics and recommend songs based on their textual content. Utilizing natural language processing (NLP) techniques, the project transforms song lyrics into numerical representations and calculates similarities between them. Then use Spotify API to obtain thumbnails for the songs and integrate that into the Streamlit Web App.
 
 ### Key Concepts:
 
@@ -12,17 +12,7 @@ This is a Python-based project designed to analyze the similarity between song l
 
 **Cosine Similarity:** A metric used to measure the similarity between two documents by calculating the cosine of the angle between their vector representations. This helps in identifying how similar two songs are based on their lyrics.<br />
 
-### Workflow:
-
-**Data Loading:** Import the song lyrics dataset. <br />
-
-**Preprocessing:** Clean and preprocess the lyrics by converting them to lowercase, removing stop words, tokenizing, and stemming.<br />
-
-**Vectorization:** Convert the preprocessed lyrics into TF-IDF vectors.<br />
-
-**Similarity Calculation:** Compute the cosine similarity between the TF-IDF vectors of the lyrics.<br />
-
-**Recommendation:** Recommend similar songs based on the calculated similarities.<br />
+**API Integration:** The process of connecting two or more applications or systems by using APIs (Application Programming Interfaces) to exchange data and perform actions.
 
 ### Applications:
 
